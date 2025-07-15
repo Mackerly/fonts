@@ -4,10 +4,10 @@
 把 TTF 字体文件复制到 C:\Windows\Fonts 文件夹里即可
 
 ### Linux 系统
-复制到字体文件夹：
- /usr/share/fonts
-~/.fonts
-~/.local/share/fonts
+复制到如下字体文件夹之一：
+-  /usr/share/fonts
+- ~/.fonts
+- ~/.local/share/fonts
 
 复制字体文件到文件夹后，执行：
 ```bash
